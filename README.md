@@ -20,7 +20,10 @@ Geospatial analysis of the Canadian Pacific (now CPKC) mainline between Vancouve
 - `scripts/` — analysis scripts
 
 ## Status
-- [x] Track geometry acquired & mainline path built
-- [x] Elevation sampled at all vertices (min 0.4 m, max 2490 m; Vancouver 6 m, Calgary 1021 m)
-- [ ] Segment metrics (bearing/grade/curvature)
-- [ ] Subdivision summary table + deliverables
+- [x] Track geometry acquired & mainline path built (1,029 km, verified through all waypoints)
+- [x] Elevation sampled at all 13,172 vertices (Vancouver 6 m → Calgary 1,048 m; max terrain 1,624 m at Kicking Horse divide)
+- [x] Segment metrics computed (bearing/grade/curvature, tunnel-masked)
+- [x] Deliverables: segment CSV, per-vertex profile CSV, GeoJSON, GPX, profile PNG, full report
+
+See `output/cpr_report.md` for the full summary.
+
