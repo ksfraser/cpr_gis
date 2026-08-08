@@ -1,0 +1,3568 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-08T22:51:50Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 25325833,
+  "lat": 49.2650043,
+  "lon": -123.0134180,
+  "tags": {
+    "alt_name": "Gilmore Station",
+    "name": "Gilmore",
+    "network": "Translink",
+    "network:short": "TL",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company LTD.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "GM",
+    "start_date": "2002-08-31",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1956306",
+    "wikipedia": "en:Gilmore station (SkyTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 25751159,
+  "lat": 49.2731524,
+  "lon": -123.1004430,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "1399",
+    "addr:province": "BC",
+    "addr:street": "Main Street",
+    "alt_name": "Main Street–Science World Station",
+    "name": "Main Street–Science World",
+    "network": "Translink",
+    "network:short": "TL",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company Ltd.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "MN",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1392001",
+    "wikipedia": "en:Main Street–Science World station"
+  }
+},
+{
+  "type": "node",
+  "id": 91101397,
+  "lat": 50.9849153,
+  "lon": -114.1093247,
+  "tags": {
+    "name": "Shepard",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 91101428,
+  "lat": 50.9857874,
+  "lon": -114.1046061,
+  "tags": {
+    "name": "Laggan",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 91101477,
+  "lat": 50.9832040,
+  "lon": -114.1060511,
+  "tags": {
+    "name": "Midnapore",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 258029290,
+  "lat": 49.2664016,
+  "lon": -123.0017230,
+  "tags": {
+    "alt_name": "Brentwood Town Centre Station",
+    "name": "Brentwood Town Centre",
+    "network": "Translink",
+    "network:short": "TL",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company Ltd.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "BR",
+    "start_date": "2002-08-31",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q1955893",
+    "wikipedia": "en:Brentwood Town Centre station"
+  }
+},
+{
+  "type": "node",
+  "id": 263427639,
+  "lat": 51.1817533,
+  "lon": -115.5761548,
+  "tags": {
+    "name": "Banff",
+    "network": "Rocky Mountaineer",
+    "operator": "Rocky Mountaineer",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q4854878",
+    "wikipedia": "en:Banff station"
+  }
+},
+{
+  "type": "node",
+  "id": 560860664,
+  "lat": 49.5672550,
+  "lon": -119.6577934,
+  "tags": {
+    "name": "Canyon View Terminus",
+    "railway": "halt"
+  }
+},
+{
+  "type": "node",
+  "id": 560865801,
+  "lat": 49.5870329,
+  "lon": -119.7330222,
+  "tags": {
+    "name": "Prairie Valley Station",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7238016",
+    "wikipedia": "en:Prairie Valley station"
+  }
+},
+{
+  "type": "node",
+  "id": 651998869,
+  "lat": 50.0958733,
+  "lon": -122.9970638,
+  "tags": {
+    "addr:city": "Whistler",
+    "addr:street": "Lake Placid Road",
+    "description": "Whistler passenger station. Also named location (station) CN (ex BC Rail) Squamish sub. MP 73.7.",
+    "name": "Whistler Station",
+    "old_railway_operator": "BC Rail;PGE",
+    "operator": "Rocky Mountaineer",
+    "public_transport": "station",
+    "railway": "station",
+    "wikidata": "Q7994067",
+    "wikipedia": "en:Whistler railway station"
+  }
+},
+{
+  "type": "node",
+  "id": 885221502,
+  "lat": 49.2165104,
+  "lon": -122.6661132,
+  "tags": {
+    "alt_name": "Maple Meadows Station",
+    "name": "Maple Meadows",
+    "network": "West Coast Express",
+    "network:short": "WCE",
+    "network:wikidata": "Q1675085",
+    "operator": "Translink",
+    "operator:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "train",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6753943"
+  }
+},
+{
+  "type": "node",
+  "id": 891472023,
+  "lat": 49.2614762,
+  "lon": -122.7740946,
+  "tags": {
+    "name": "Port Coquitlam",
+    "network": "West Coast Express",
+    "network:short": "WCE",
+    "network:wikidata": "Q1675085",
+    "operator": "Translink",
+    "operator:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7230564"
+  }
+},
+{
+  "type": "node",
+  "id": 988486069,
+  "lat": 49.2715302,
+  "lon": -123.0971632,
+  "tags": {
+    "name": "CN Main Yard",
+    "operator": "Canadian National Railway",
+    "railway": "yard"
+  }
+},
+{
+  "type": "node",
+  "id": 1351000647,
+  "lat": 50.4774475,
+  "lon": -119.7510175,
+  "tags": {
+    "railway": "service_station",
+    "source": "NRCan-CanVec-7.0"
+  }
+},
+{
+  "type": "node",
+  "id": 1455193348,
+  "lat": 49.2124296,
+  "lon": -122.6062196,
+  "tags": {
+    "alt_name": "Port Haney Station",
+    "name": "Port Haney",
+    "network": "West Coast Express",
+    "network:short": "WCE",
+    "network:wikidata": "Q1675085",
+    "operator": "Translink",
+    "operator:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7230661"
+  }
+},
+{
+  "type": "node",
+  "id": 1457479394,
+  "lat": 49.2393761,
+  "lon": -121.7650549,
+  "tags": {
+    "name": "Agassiz",
+    "network": "VIA Rail",
+    "public_transport": "station",
+    "railway": "halt",
+    "railway:ref": "AGAS",
+    "train": "yes",
+    "wikidata": "Q4691432"
+  }
+},
+{
+  "type": "node",
+  "id": 1458079806,
+  "lat": 49.3683600,
+  "lon": -121.5516609,
+  "tags": {
+    "name": "Katz",
+    "network": "VIA Rail",
+    "public_transport": "station",
+    "railway": "halt",
+    "railway:ref": "KATZ",
+    "train": "yes",
+    "wikidata": "Q6378572"
+  }
+},
+{
+  "type": "node",
+  "id": 1458193260,
+  "lat": 49.8768700,
+  "lon": -121.4498527,
+  "tags": {
+    "name": "North Bend",
+    "network": "VIA Rail",
+    "note": "eastbound only",
+    "public_transport": "station",
+    "railway": "halt",
+    "railway:ref": "NBND",
+    "train": "yes",
+    "wikidata": "Q7054149"
+  }
+},
+{
+  "type": "node",
+  "id": 1786959880,
+  "lat": 50.3214225,
+  "lon": -122.8061940,
+  "tags": {
+    "addr:city": "Pemberton",
+    "addr:province": "BC",
+    "addr:street": "Frontier Street",
+    "description": "Pemberton passenger station, CN Squamish sub, ex BC Rail. MP 95.0 Public passenger service ended in 2002.",
+    "name": "Pemberton",
+    "operator": "Canadian National",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2010144576,
+  "lat": 49.1035946,
+  "lon": -122.7338399,
+  "tags": {
+    "access": "customers",
+    "name": "Cloverdale (FVHRS)",
+    "network": "Fraser Valley Heritage Railway Society",
+    "operator": "Fraser Valley Heritage Railway Society",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "designated"
+  }
+},
+{
+  "type": "node",
+  "id": 2025435540,
+  "lat": 49.1338339,
+  "lon": -122.3038040,
+  "tags": {
+    "alt_name": "Mission City Station",
+    "name": "Mission City",
+    "network": "West Coast Express",
+    "network:short": "WCE",
+    "network:wikidata": "Q1675085",
+    "operator": "Translink",
+    "operator:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6878557",
+    "wikipedia": "en:Mission City station"
+  }
+},
+{
+  "type": "node",
+  "id": 2637733856,
+  "lat": 51.0399531,
+  "lon": -114.1365332,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Westbrook",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q7987165",
+    "wikipedia": "en:Westbrook station (Calgary)"
+  }
+},
+{
+  "type": "node",
+  "id": 3167127887,
+  "lat": 51.0709277,
+  "lon": -114.1155185,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Banff Trail",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q3791261",
+    "wikipedia": "en:Banff Trail station"
+  }
+},
+{
+  "type": "node",
+  "id": 3185972587,
+  "lat": 51.0650448,
+  "lon": -114.1033521,
+  "tags": {
+    "departures_board": "realtime",
+    "departures_board:speech_output": "no",
+    "light_rail": "yes",
+    "name": "Lions Park",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q4253207",
+    "wikipedia": "en:Lions Park station"
+  }
+},
+{
+  "type": "node",
+  "id": 3185974854,
+  "lat": 51.0559641,
+  "lon": -114.0844141,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Sunnyside",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q4407805",
+    "wikipedia": "en:Sunnyside station (Calgary)"
+  }
+},
+{
+  "type": "node",
+  "id": 3684428765,
+  "lat": 50.9106156,
+  "lon": -114.0705997,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Shawnessy",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q3791116",
+    "wikipedia": "en:Shawnessy station"
+  }
+},
+{
+  "type": "node",
+  "id": 3831781786,
+  "lat": 49.2861789,
+  "lon": -123.1122190,
+  "tags": {
+    "alt_name": "Waterfront Station",
+    "name": "Waterfront",
+    "network": "Translink",
+    "network:short": "TL",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "WF",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1625437",
+    "wikipedia": "en:Waterfront station (Vancouver)"
+  }
+},
+{
+  "type": "node",
+  "id": 3895683669,
+  "lat": 50.6788439,
+  "lon": -120.3253985,
+  "tags": {
+    "name": "Kamloops",
+    "network": "Rocky Mountaineer",
+    "operator": "Rocky Mountaineer",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "website": "https://www.viarail.ca/en/explore-our-destinations/stations/kamloops",
+    "wikidata": "Q6358790",
+    "wikipedia": "en:Kamloops station"
+  }
+},
+{
+  "type": "node",
+  "id": 3956040167,
+  "lat": 49.2618519,
+  "lon": -123.0691167,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "2550",
+    "addr:province": "BC",
+    "addr:street": "Commercial Drive",
+    "alt_name": "Broadway Station",
+    "name": "Commercial–Broadway",
+    "network": "TransLink",
+    "not:network:wikidata": "Q1675085",
+    "old_name": "Broadway",
+    "operator": "BC Rapid Transit Company LTD.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "BW",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1391726",
+    "wikipedia": "en:Commercial–Broadway station"
+  }
+},
+{
+  "type": "node",
+  "id": 3956040169,
+  "lat": 49.2484558,
+  "lon": -122.8968482,
+  "tags": {
+    "addr:city": "Burnaby",
+    "addr:housenumber": "9677",
+    "addr:street": "Lougheed Highway",
+    "alt_name": "Lougheed Station",
+    "name": "Lougheed Town Centre",
+    "network": "Translink",
+    "network:short": "TL",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company LTD",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "LH",
+    "start_date": "2002-08-31",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1826172",
+    "wikipedia": "en:Lougheed Town Centre station"
+  }
+},
+{
+  "type": "node",
+  "id": 3956055739,
+  "lat": 49.1956060,
+  "lon": -123.1259370,
+  "tags": {
+    "addr:city": "Richmond",
+    "addr:housenumber": "2211",
+    "addr:province": "BC",
+    "addr:street": "Great Canadian Way",
+    "alt_name": "Bridgeport Station",
+    "internet_access": "no",
+    "name": "Bridgeport",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "ProTransBC",
+    "operator:wikidata": "Q130561765",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "BP",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2493447",
+    "wikipedia": "en:Bridgeport station (SkyTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 4232063301,
+  "lat": 51.0471918,
+  "lon": -114.0873533,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Downtown West–Kerby",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q5303609",
+    "wikipedia": "en:Downtown West – Kerby"
+  }
+},
+{
+  "type": "node",
+  "id": 4259575770,
+  "lat": 49.6908710,
+  "lon": -123.1639565,
+  "tags": {
+    "name": "North Pole Express - WCRA",
+    "network": "Railway Museum of BC",
+    "operator": "Railway Museum of BC",
+    "public_transport": "station",
+    "railway": "halt",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4688064791,
+  "lat": 49.1101464,
+  "lon": -122.3477042,
+  "tags": {
+    "name": "Abrahamson",
+    "operator": "CN Rail",
+    "railway": "service_station"
+  }
+},
+{
+  "type": "node",
+  "id": 5249480724,
+  "lat": 49.1187030,
+  "lon": -122.8003215,
+  "tags": {
+    "name": "Sullivan",
+    "railway": "halt"
+  }
+},
+{
+  "type": "node",
+  "id": 5319519499,
+  "lat": 51.0379869,
+  "lon": -114.1543052,
+  "tags": {
+    "light_rail": "yes",
+    "name": "45 Street",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 5319519500,
+  "lat": 51.0384643,
+  "lon": -114.1688924,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Sirocco",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q7530529",
+    "wikipedia": "en:Sirocco (CTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 5324415604,
+  "lat": 49.1991139,
+  "lon": -122.8506050,
+  "tags": {
+    "alt_name": "Gateway Station",
+    "name": "Gateway",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "TransLink",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "GW",
+    "start_date": "1994-03-28",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1577952",
+    "wikipedia": "en:Gateway station (SkyTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 5324415606,
+  "lat": 49.1895143,
+  "lon": -122.8478760,
+  "tags": {
+    "alt_name": "Surrey Central Station",
+    "name": "Surrey Central",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "SC",
+    "source": "en:Surrey Central station",
+    "start_date": "1994-03-28",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1654644",
+    "wikipedia": "en:Surrey Central station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324432723,
+  "lat": 49.1827755,
+  "lon": -122.8447317,
+  "tags": {
+    "alt_name": "King George Station",
+    "name": "King George",
+    "network": "Translink",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "KG",
+    "start_date": "1994-03-28",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "limited",
+    "wikidata": "Q1655607",
+    "wikipedia": "en:King George station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324453350,
+  "lat": 49.2044338,
+  "lon": -122.8741266,
+  "tags": {
+    "alt_name": "Scott Road Station",
+    "name": "Scott Road",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "SR",
+    "start_date": "1990-03-16",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1575868",
+    "wikipedia": "en:Scott Road station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324471829,
+  "lat": 49.2048182,
+  "lon": -122.9061329,
+  "tags": {
+    "name": "Columbia",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "CO",
+    "start_date": "1989-02-14",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "limited",
+    "wikidata": "Q1575880",
+    "wikipedia": "en:Columbia station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324488092,
+  "lat": 49.2245694,
+  "lon": -122.8894587,
+  "tags": {
+    "alt_name": "Sapperton Station",
+    "name": "Sapperton",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "SA",
+    "start_date": "2002-01-05",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1755353",
+    "wikipedia": "en:Sapperton station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324519662,
+  "lat": 49.2013700,
+  "lon": -122.9127416,
+  "tags": {
+    "alt_name": "New West Station",
+    "name": "New Westminster",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "NW",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1574998",
+    "wikipedia": "en:New Westminster station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324525267,
+  "lat": 49.2000649,
+  "lon": -122.9490150,
+  "tags": {
+    "alt_name": "22nd Street Station",
+    "name": "22nd Street",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "TS",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1577363",
+    "wikipedia": "en:22nd Street station (SkyTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 5324545412,
+  "lat": 49.2121286,
+  "lon": -122.9592330,
+  "tags": {
+    "addr:city": "Burnaby",
+    "addr:housenumber": "6944",
+    "addr:street": "18th Avenue",
+    "alt_name": "Edmonds Station",
+    "name": "Edmonds",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "opening_hours": "Mo-Fr 05:17-01:16; Sa 06:16-01:16; Su 07:16-00:16",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "ED",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1575013",
+    "wikipedia": "en:Edmonds station (SkyTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 5324551029,
+  "lat": 49.2200742,
+  "lon": -122.9884160,
+  "tags": {
+    "alt_name": "Royal Oak Station",
+    "name": "Royal Oak",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "RO",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1577965",
+    "wikipedia": "en:Royal Oak station (SkyTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 5324559457,
+  "lat": 49.2258524,
+  "lon": -123.0038944,
+  "tags": {
+    "addr:city": "Burnaby",
+    "addr:housenumber": "4401",
+    "addr:province": "BC",
+    "addr:street": "Beresford Street",
+    "alt_name": "Metrotown Station",
+    "internet_access": "no",
+    "name": "Metrotown",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "MT",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3722244",
+    "wikipedia": "en:Metrotown station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324568678,
+  "lat": 49.2298294,
+  "lon": -123.0127880,
+  "tags": {
+    "addr:city": "Burnaby",
+    "addr:housenumber": "4101",
+    "addr:province": "BC",
+    "addr:street": "Beresford Street",
+    "alt_name": "Patterson Station",
+    "name": "Patterson",
+    "name:etymology:wikidata": "Q5312449",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "PT",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1440971",
+    "wikipedia": "en:Patterson station (SkyTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 5324581126,
+  "lat": 49.2383663,
+  "lon": -123.0316780,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "5099",
+    "addr:province": "BC",
+    "addr:street": "Joyce Street",
+    "alt_name": "Joyce Station",
+    "internet_access": "no",
+    "name": "Joyce–Collingwood",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "TransLink",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "JY",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1440923",
+    "wikipedia": "en:Joyce–Collingwood station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324590526,
+  "lat": 49.2484591,
+  "lon": -123.0560245,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "2540",
+    "addr:province": "BC",
+    "addr:street": "East 24th Avenue",
+    "alt_name": "Nanaimo Station",
+    "name": "Nanaimo",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company LTD.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "NA",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1440914",
+    "wikipedia": "en:Nanaimo station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324600053,
+  "lat": 49.2442084,
+  "lon": -123.0459222,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "2790",
+    "addr:province": "BC",
+    "addr:street": "East 29th Avenue",
+    "alt_name": "29th Avenue Station",
+    "name": "29th Avenue",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "TN",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1440907",
+    "wikipedia": "en:29th Avenue station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324621993,
+  "lat": 49.2658292,
+  "lon": -123.0791410,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "2102",
+    "addr:province": "BC",
+    "addr:street": "Keith Drive",
+    "alt_name": "VCC–Clark Station",
+    "internet_access": "no",
+    "name": "VCC–Clark",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company Ltd.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "VC",
+    "start_date": "2006-01-06",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1955857",
+    "wikipedia": "en:VCC–Clark station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324635042,
+  "lat": 49.2832289,
+  "lon": -123.1160430,
+  "tags": {
+    "alt_name": "Granville Station",
+    "name": "Granville",
+    "network": "Translink",
+    "network:short": "TL",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company Ltd.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "GV",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1186718",
+    "wikipedia": "en:Granville station (SkyTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 5324635405,
+  "lat": 49.2793980,
+  "lon": -123.1093110,
+  "tags": {
+    "internet_access": "no",
+    "name": "Stadium–Chinatown",
+    "name:en": "Stadium–Chinatown",
+    "name:zh": "體育館/華埠（唐人街）",
+    "network": "Translink",
+    "network:short": "TL",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company Ltd.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "ST",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1186497",
+    "wikipedia": "en:Stadium–Chinatown station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324651729,
+  "lat": 49.2856364,
+  "lon": -123.1198150,
+  "tags": {
+    "alt_name": "Burrard Station",
+    "name": "Burrard",
+    "network": "Translink",
+    "network:short": "TL",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company Ltd.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "BU",
+    "start_date": "1986-01-03",
+    "station": "subway",
+    "subway": "yes",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1186692",
+    "wikipedia": "en:Burrard station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324667872,
+  "lat": 49.2331095,
+  "lon": -122.8827750,
+  "tags": {
+    "alt_name": "Braid Station",
+    "name": "Braid",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "BD",
+    "start_date": "2002-01-05",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1755362",
+    "wikipedia": "en:Braid station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324685228,
+  "lat": 49.2534219,
+  "lon": -122.9181460,
+  "tags": {
+    "alt_name": "Production Station",
+    "internet_access": "no",
+    "name": "Production Way–University",
+    "network": "TransLink",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company LTD.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "PW",
+    "start_date": "2002-08-31",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1826537",
+    "wikipedia": "en:Production Way–University station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324689532,
+  "lat": 49.2546106,
+  "lon": -122.9392748,
+  "tags": {
+    "alt_name": "Lake City Way Station",
+    "name": "Lake City Way",
+    "network": "Translink",
+    "network:short": "TL",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company LTD",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "LC",
+    "start_date": "2003-11-21",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1826503",
+    "wikipedia": "en:Lake City Way station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324716725,
+  "lat": 49.2591940,
+  "lon": -122.9640609,
+  "tags": {
+    "air_conditioning": "no",
+    "alt_name": "Sperling Station",
+    "internet_access": "no",
+    "name": "Sperling–Burnaby Lake",
+    "network": "Translink",
+    "network:short": "TL",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company LTD",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "SP",
+    "start_date": "2002-08-31",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1826575",
+    "wikipedia": "en:Sperling–Burnaby Lake station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324719980,
+  "lat": 49.2647247,
+  "lon": -122.9819512,
+  "tags": {
+    "alt_name": "Holdom Station",
+    "name": "Holdom",
+    "network": "TransLink",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company LTD.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "HO",
+    "start_date": "2002-08-31",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1826495",
+    "wikipedia": "en:Holdom station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324730259,
+  "lat": 49.2607120,
+  "lon": -123.0330980,
+  "tags": {
+    "alt_name": "Rupert Station",
+    "name": "Rupert",
+    "network": "Translink",
+    "network:short": "TL",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company Ltd.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "RU",
+    "start_date": "2002-08-31",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1956237",
+    "wikipedia": "en:Rupert station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324734517,
+  "lat": 49.2589451,
+  "lon": -123.0452550,
+  "tags": {
+    "alt_name": "Renfrew Station",
+    "name": "Renfrew",
+    "network": "Translink",
+    "network:short": "TL",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "RE",
+    "start_date": "2002-08-31",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1956276",
+    "wikipedia": "en:Renfrew station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324737128,
+  "lat": 49.2613309,
+  "lon": -122.8899378,
+  "tags": {
+    "alt_name": "Burquitlam Station",
+    "name": "Burquitlam",
+    "network": "TransLink",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company LTD",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "start_date": "2016-12-02",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5000302",
+    "wikipedia": "en:Burquitlam station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324742207,
+  "lat": 49.2748886,
+  "lon": -122.8009101,
+  "tags": {
+    "addr:city": "Coquitlam",
+    "addr:housenumber": "2920",
+    "addr:postcode": "V3C 1H9",
+    "addr:province": "BC",
+    "addr:street": "Barnet Highway",
+    "alt_name": "Coquitlam Central Station",
+    "name": "Coquitlam Central",
+    "network": "Translink",
+    "network:short": "TL",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company LTD",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "start_date": "2016-12-02",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5169339",
+    "wikipedia": "en:Coquitlam Central station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324748888,
+  "lat": 49.1839817,
+  "lon": -123.1363160,
+  "tags": {
+    "addr:city": "Richmond",
+    "addr:housenumber": "4100",
+    "addr:province": "BC",
+    "addr:street": "Number 3 Road",
+    "alt_name": "Aberdeen Station",
+    "internet_access": "no",
+    "name": "Aberdeen",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "ProTransBC",
+    "operator:wikidata": "Q130561765",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "AB",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2493402",
+    "wikipedia": "en:Aberdeen station (SkyTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 5324785127,
+  "lat": 49.1745680,
+  "lon": -123.1364650,
+  "tags": {
+    "addr:city": "Richmond",
+    "addr:housenumber": "5400",
+    "addr:province": "BC",
+    "addr:street": "Number 3 Road",
+    "alt_name": "Lansdowne Station",
+    "internet_access": "no",
+    "name": "Lansdowne",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "ProTransBC",
+    "operator:wikidata": "Q130561765",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "LD",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2582287",
+    "wikipedia": "en:Lansdowne station (SkyTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 5324786154,
+  "lat": 49.1681069,
+  "lon": -123.1362733,
+  "tags": {
+    "addr:city": "Richmond",
+    "addr:housenumber": "6222",
+    "addr:province": "BC",
+    "addr:street": "Number 3 Road",
+    "alt_name": "Brighouse Station",
+    "internet_access": "no",
+    "name": "Richmond–Brighouse",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "ProTransBC",
+    "operator:wikidata": "Q130561765",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "RB",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2582368",
+    "wikipedia": "en:Richmond–Brighouse station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324792504,
+  "lat": 49.1966743,
+  "lon": -123.1464661,
+  "tags": {
+    "alt_name": "Templeton Station",
+    "name": "Templeton",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "TM",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2582278",
+    "wikipedia": "en:Templeton station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324793019,
+  "lat": 49.1930248,
+  "lon": -123.1580114,
+  "tags": {
+    "alt_name": "Sea Island Centre Station",
+    "name": "Sea Island Centre",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "SI",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2582702",
+    "wikipedia": "en:Sea Island Centre station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324798857,
+  "lat": 49.2665609,
+  "lon": -123.1156986,
+  "tags": {
+    "alt_name": "Olympic Village Station",
+    "name": "Olympic Village",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "Translink",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "OV",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikipedia": "en:Olympic Village station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324814227,
+  "lat": 49.2096825,
+  "lon": -123.1169479,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "8430",
+    "addr:province": "British Columbia",
+    "addr:street": "Cambie Street",
+    "alt_name": "Marine Drive Station",
+    "internet_access": "no",
+    "name": "Marine Drive",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "ProTransBC",
+    "operator:wikidata": "Q130561765",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "MD",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2493445",
+    "wikipedia": "en:Marine Drive station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324820129,
+  "lat": 49.2331614,
+  "lon": -123.1166166,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "510",
+    "addr:province": "BC",
+    "addr:street": "West 41st Avenue",
+    "alt_name": "Oakridge-41st Avenue Station",
+    "name": "Oakridge-41st Avenue",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "ProTransBC",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "OK",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2368841",
+    "wikipedia": "en:Oakridge–41st Avenue station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324820954,
+  "lat": 49.2262741,
+  "lon": -123.1160900,
+  "tags": {
+    "alt_name": "Langara-49th Avenue Station",
+    "name": "Langara-49th Avenue",
+    "network": "TransLink",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "LG",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2494127",
+    "wikipedia": "en:Langara–49th Avenue station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324825482,
+  "lat": 49.2491653,
+  "lon": -123.1158638,
+  "tags": {
+    "alt_name": "King Edward Station",
+    "name": "King Edward",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "ProTransBC",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "KE",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2258039",
+    "wikipedia": "en:King Edward station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324830285,
+  "lat": 49.2628397,
+  "lon": -123.1145063,
+  "tags": {
+    "alt_name": "Broadway–City Hall Station",
+    "name": "Broadway–City Hall",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "BC",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2256761",
+    "wikipedia": "en:Broadway–City Hall station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324837598,
+  "lat": 49.2745376,
+  "lon": -123.1219050,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:province": "BC",
+    "alt_name": "Yaletown–Roundhouse Station",
+    "name": "Yaletown–Roundhouse",
+    "network": "Translink",
+    "network:short": "TL",
+    "network:wikidata": "Q1675085",
+    "operator": "Translink",
+    "operator:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "YT",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2153961",
+    "wikipedia": "en:Yaletown–Roundhouse station"
+  }
+},
+{
+  "type": "node",
+  "id": 5324838897,
+  "lat": 49.2819919,
+  "lon": -123.1189230,
+  "tags": {
+    "alt_name": "Vancouver City Centre Station",
+    "name": "Vancouver City Centre",
+    "network": "Translink",
+    "network:short": "TL",
+    "not:network:wikidata": "Q1675085",
+    "operator": "TransLink",
+    "operator:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "VS",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2153968",
+    "wikipedia": "en:Vancouver City Centre station"
+  }
+},
+{
+  "type": "node",
+  "id": 5325408472,
+  "lat": 49.2771919,
+  "lon": -122.8279850,
+  "tags": {
+    "alt_name": "Inlet Centre Station",
+    "name": "Inlet Centre",
+    "network": "Translink",
+    "network:short": "TL",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company LTD",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "start_date": "2016-12-02",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6062216",
+    "wikipedia": "en:Inlet Centre station"
+  }
+},
+{
+  "type": "node",
+  "id": 5325408927,
+  "lat": 49.2779402,
+  "lon": -122.8455110,
+  "tags": {
+    "alt_name": "Moody Centre Station",
+    "name": "Moody Centre",
+    "network": "Translink",
+    "network:short": "TL",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company LTD.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "start_date": "2016-12-02",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q13453115",
+    "wikipedia": "en:Moody Centre station"
+  }
+},
+{
+  "type": "node",
+  "id": 5325411924,
+  "lat": 49.2803689,
+  "lon": -122.7940158,
+  "tags": {
+    "alt_name": "Lincoln Station",
+    "name": "Lincoln",
+    "network": "Translink",
+    "network:short": "WCE",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "TransLink",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "LN",
+    "start_date": "2016-12-02",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6551032",
+    "wikipedia": "en:Lincoln station (SkyTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 5325411930,
+  "lat": 49.2854711,
+  "lon": -122.7917373,
+  "tags": {
+    "alt_name": "Lafarge Station",
+    "name": "Lafarge Lake–Douglas",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "BC Rapid Transit Company",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "start_date": "2016-12-02",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5301350",
+    "wikipedia": "en:Lafarge Lake–Douglas station"
+  }
+},
+{
+  "type": "node",
+  "id": 5328604043,
+  "lat": 49.2859502,
+  "lon": -123.1112780,
+  "tags": {
+    "alt_name": "Waterfront Station",
+    "name": "Waterfront",
+    "network": "West Coast Express",
+    "network:short": "WCE",
+    "network:wikidata": "Q1675085",
+    "operator": "Translink",
+    "operator:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1625437"
+  }
+},
+{
+  "type": "node",
+  "id": 5328609486,
+  "lat": 49.2780809,
+  "lon": -122.8468770,
+  "tags": {
+    "alt_name": "Moody Centre Station",
+    "name": "Moody Centre",
+    "network": "West Coast Express",
+    "network:short": "WCE",
+    "network:wikidata": "Q1675085",
+    "operator": "TransLink",
+    "operator:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "train",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q7230806",
+    "wikipedia": "en:Port Moody station"
+  }
+},
+{
+  "type": "node",
+  "id": 5328619638,
+  "lat": 49.2738781,
+  "lon": -122.7999939,
+  "tags": {
+    "alt_name": "Coquitlam Central Station",
+    "name": "Coquitlam Central",
+    "network": "West Coast Express",
+    "network:short": "WCE",
+    "network:wikidata": "Q1675085",
+    "operator": "Translink",
+    "operator:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q5169339"
+  }
+},
+{
+  "type": "node",
+  "id": 5330999693,
+  "lat": 49.1942692,
+  "lon": -123.1783427,
+  "tags": {
+    "alt_name": "YVR–Airport Station",
+    "name": "YVR–Airport",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "AP",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2582331",
+    "wikipedia": "en:YVR–Airport station"
+  }
+},
+{
+  "type": "node",
+  "id": 6127381136,
+  "lat": 49.0579825,
+  "lon": -117.5955128,
+  "tags": {
+    "name": "Columbia Gardens",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 6481882067,
+  "lat": 49.3155483,
+  "lon": -123.1140564,
+  "tags": {
+    "name": "North Vancouver",
+    "network": "Rocky Mountaineer",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7057110"
+  }
+},
+{
+  "type": "node",
+  "id": 6481964006,
+  "lat": 50.7081246,
+  "lon": -122.2892110,
+  "tags": {
+    "description": "Seton-Portage passenger station. Also Seton station, CN (ex BC Rail) Squamish sub. MP 139.5.",
+    "name": "Seton Portage",
+    "network": "Kaoham Shuttle",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7456808"
+  }
+},
+{
+  "type": "node",
+  "id": 6575440356,
+  "lat": 51.0467885,
+  "lon": -114.0750235,
+  "tags": {
+    "light_rail": "yes",
+    "name": "6 Street Southwest",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "short_name": "6 St SW",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q16653157",
+    "wikipedia": "en:6 Street Southwest station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575466744,
+  "lat": 51.0463194,
+  "lon": -114.0567906,
+  "tags": {
+    "departures_board": "realtime",
+    "departures_board:speech_output": "no",
+    "light_rail": "yes",
+    "name": "City Hall/Bow Valley College",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "old_name": "City Hall",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q4333894",
+    "wikipedia": "en:City Hall station (Calgary)"
+  }
+},
+{
+  "type": "node",
+  "id": 6575466745,
+  "lat": 51.0464027,
+  "lon": -114.0617840,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Centre Street",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q21651957",
+    "wikipedia": "en:Centre Street station (Calgary)"
+  }
+},
+{
+  "type": "node",
+  "id": 6575466746,
+  "lat": 51.0465822,
+  "lon": -114.0642370,
+  "tags": {
+    "light_rail": "yes",
+    "name": "1 Street Southwest",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "ref": "6823",
+    "short_name": "1 St SW",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q4186411",
+    "wikipedia": "en:1 Street Southwest station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575466755,
+  "lat": 51.0466043,
+  "lon": -114.0691581,
+  "tags": {
+    "light_rail": "yes",
+    "name": "3 Street Southwest",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "short_name": "3 St SW",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q16653155",
+    "wikipedia": "en:3 Street Southwest station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575466756,
+  "lat": 51.0468372,
+  "lon": -114.0725609,
+  "tags": {
+    "light_rail": "yes",
+    "name": "4 Street Southwest",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "short_name": "4 St SW",
+    "station": "light_rail",
+    "wikidata": "Q3791433",
+    "wikipedia": "en:4 Street Southwest station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575497065,
+  "lat": 51.0416857,
+  "lon": -114.1251795,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Shaganappi Point",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "limited",
+    "wikidata": "Q7461159",
+    "wikipedia": "en:Shaganappi Point (CTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 6575504166,
+  "lat": 51.0475878,
+  "lon": -113.9938157,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Franklin",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikipedia": "en:Franklin station (Calgary)"
+  }
+},
+{
+  "type": "node",
+  "id": 6575504167,
+  "lat": 51.0581991,
+  "lon": -113.9817070,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Marlborough",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q4279381",
+    "wikipedia": "en:Marlborough station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575504168,
+  "lat": 51.0759081,
+  "lon": -113.9817327,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Rundle",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q4389885",
+    "wikipedia": "en:Rundle station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575522464,
+  "lat": 51.0316742,
+  "lon": -114.0589663,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Erlton/Stampede",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikipedia": "en:Erlton/Stampede station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575523316,
+  "lat": 51.0376441,
+  "lon": -114.1876226,
+  "tags": {
+    "light_rail": "yes",
+    "name": "69 Street",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6575529216,
+  "lat": 51.1256917,
+  "lon": -113.9481904,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Saddletowne",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q7397772",
+    "wikipedia": "en:Saddletowne station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575547071,
+  "lat": 51.0865701,
+  "lon": -113.9817376,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Whitehorn",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q4468462",
+    "wikipedia": "en:Whitehorn station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575547072,
+  "lat": 51.1092069,
+  "lon": -113.9756659,
+  "tags": {
+    "light_rail": "yes",
+    "name": "McKnight-Westwinds",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q4275855",
+    "wikipedia": "en:McKnight–Westwinds station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575547074,
+  "lat": 51.1177154,
+  "lon": -113.9678886,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Martindale",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q6777075",
+    "wikipedia": "en:Martindale station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575549333,
+  "lat": 51.0386666,
+  "lon": -114.0582258,
+  "tags": {
+    "departures_board": "realtime",
+    "departures_board:speech_output": "no",
+    "light_rail": "yes",
+    "name": "Victoria Park/Stampede",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "limited",
+    "wikipedia": "en:Victoria Park/Stampede station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575573990,
+  "lat": 51.0175722,
+  "lon": -114.0613877,
+  "tags": {
+    "light_rail": "yes",
+    "name": "39 Avenue",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q4463017",
+    "wikipedia": "en:39 Avenue (CTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 6575588313,
+  "lat": 50.9970881,
+  "lon": -114.0657610,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Chinook",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q4524084",
+    "wikipedia": "en:Chinook station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575588314,
+  "lat": 50.9781243,
+  "lon": -114.0742526,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Heritage",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q4532475",
+    "wikipedia": "en:Heritage station (Calgary)"
+  }
+},
+{
+  "type": "node",
+  "id": 6575591757,
+  "lat": 51.0800072,
+  "lon": -114.1229570,
+  "tags": {
+    "light_rail": "yes",
+    "name": "University",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 6575591953,
+  "lat": 50.9634836,
+  "lon": -114.0765725,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Southland",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q4409172",
+    "wikipedia": "en:Southland (CTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 6575591954,
+  "lat": 50.9551160,
+  "lon": -114.0746917,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Anderson",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q3791097",
+    "wikipedia": "en:Anderson (CTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 6575593129,
+  "lat": 51.1226383,
+  "lon": -114.2069775,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Crowfoot",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q3791327",
+    "wikipedia": "en:Crowfoot station"
+  }
+},
+{
+  "type": "node",
+  "id": 6575595186,
+  "lat": 50.9356312,
+  "lon": -114.0698749,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Canyon Meadows",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q4251131",
+    "wikipedia": "en:Canyon Meadows (CTrain)"
+  }
+},
+{
+  "type": "node",
+  "id": 6575604646,
+  "lat": 51.0630970,
+  "lon": -114.0912640,
+  "tags": {
+    "light_rail": "yes",
+    "name": "SAIT/AUArts/Jubilee",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6575607872,
+  "lat": 50.8991837,
+  "lon": -114.0690450,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Somerset–Bridlewood",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q3791108",
+    "wikipedia": "en:Somerset – Bridlewood"
+  }
+},
+{
+  "type": "node",
+  "id": 6575616772,
+  "lat": 51.1033849,
+  "lon": -114.1607313,
+  "tags": {
+    "internet_access": "wlan",
+    "light_rail": "yes",
+    "name": "Dalhousie",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6575621430,
+  "lat": 51.1345155,
+  "lon": -114.2356780,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Tuscany",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6575665571,
+  "lat": 51.0868407,
+  "lon": -114.1314822,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Brentwood",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6712140298,
+  "lat": 50.9230139,
+  "lon": -114.0730702,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Fish Creek–Lacombe",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q3791132",
+    "wikipedia": "en:Fish Creek–Lacombe station"
+  }
+},
+{
+  "type": "node",
+  "id": 7003130156,
+  "lat": 49.1281729,
+  "lon": -122.3031370,
+  "tags": {
+    "name": "Mission Harbour",
+    "network": "VIA Rail",
+    "public_transport": "station",
+    "railway": "halt",
+    "railway:ref": "MSNH",
+    "train": "yes",
+    "website": "https://www.viarail.ca/en/explore-our-destinations/stations/rockies-and-pacific/mission-harbour",
+    "wikidata": "Q3097051",
+    "wikipedia": "en:Mission Harbour station"
+  }
+},
+{
+  "type": "node",
+  "id": 7003130157,
+  "lat": 49.1168780,
+  "lon": -122.2764720,
+  "tags": {
+    "internet_access": "no",
+    "name": "Abbotsford",
+    "network": "VIA Rail",
+    "network:wikidata": "Q876720",
+    "operator": "VIA Rail Canada",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "ABBO",
+    "train": "yes",
+    "website": "https://www.viarail.ca/en/explore-our-destinations/stations/rockies-and-pacific/abbotsford",
+    "wikidata": "Q4664324"
+  }
+},
+{
+  "type": "node",
+  "id": 7003130158,
+  "lat": 49.1645340,
+  "lon": -121.9491220,
+  "tags": {
+    "name": "Chilliwack",
+    "network": "VIA Rail",
+    "network:wikidata": "Q876720",
+    "operator": "VIA Rail Canada",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "CHIL",
+    "train": "yes",
+    "wikidata": "Q971748",
+    "wikipedia": "en:Chilliwack station"
+  }
+},
+{
+  "type": "node",
+  "id": 7003130159,
+  "lat": 49.3792000,
+  "lon": -121.4363398,
+  "tags": {
+    "name": "Hope",
+    "network": "VIA Rail",
+    "network:wikidata": "Q876720",
+    "operator": "VIA Rail Canada",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "HOPE",
+    "train": "yes",
+    "wikidata": "Q3096638"
+  }
+},
+{
+  "type": "node",
+  "id": 7003130161,
+  "lat": 49.8695005,
+  "lon": -121.4444842,
+  "tags": {
+    "name": "Boston Bar",
+    "network": "VIA Rail",
+    "operator": "VIA Rail Canada",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "BBAR",
+    "train": "yes",
+    "wikidata": "Q4947748"
+  }
+},
+{
+  "type": "node",
+  "id": 7003130162,
+  "lat": 50.7297695,
+  "lon": -121.2757236,
+  "tags": {
+    "name": "Ashcroft",
+    "network": "VIA Rail",
+    "operator": "VIA Rail Canada",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "ASHN",
+    "train": "yes",
+    "wikidata": "Q4804762"
+  }
+},
+{
+  "type": "node",
+  "id": 7003130163,
+  "lat": 50.7182095,
+  "lon": -120.3483060,
+  "tags": {
+    "name": "Kamloops North",
+    "network": "VIA Rail",
+    "network:wikidata": "Q876720",
+    "operator": "VIA Rail Canada",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "KAMN",
+    "train": "yes",
+    "website": "https://www.viarail.ca/en/explore-our-destinations/stations/rockies-and-pacific/kamloops-north",
+    "wikidata": "Q3096675",
+    "wikipedia": "en:Kamloops North station"
+  }
+},
+{
+  "type": "node",
+  "id": 7003130164,
+  "lat": 51.6379744,
+  "lon": -120.0331005,
+  "tags": {
+    "name": "Clearwater",
+    "network": "VIA Rail",
+    "operator": "VIA Rail Canada",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "CLWT",
+    "train": "yes",
+    "wikidata": "Q3096251"
+  }
+},
+{
+  "type": "node",
+  "id": 7003190319,
+  "lat": 50.7290185,
+  "lon": -122.2423000,
+  "tags": {
+    "description": "South Shalalt halt and station, CN (ex BC Rail) Squamish sub. MP 141.4. Not in CN timetable.",
+    "name": "South Shalalth",
+    "network": "Kaoham Shuttle",
+    "old_railway_operator": "BC Rail;PGE",
+    "operator": "Canadian National",
+    "public_transport": "station",
+    "railway": "halt",
+    "source": "BC Rail 1995 Condensed Profile",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7003190320,
+  "lat": 50.7287714,
+  "lon": -122.2199350,
+  "tags": {
+    "description": "Shalalth halt and station, CN (ex BC Rail) Squamish sub. MP 142.4. Not in CN Timetable.",
+    "name": "Shalalth",
+    "network": "Kaoham Shuttle",
+    "old_railway_operator": "BC Rail",
+    "operator": "Canadian National",
+    "public_transport": "station",
+    "railway": "halt",
+    "source": "BC Rail 1995 Condensed Profile",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7003190321,
+  "lat": 50.6847603,
+  "lon": -121.9360274,
+  "tags": {
+    "addr:city": "Lillooet",
+    "addr:postcode": "V0K 2E3",
+    "addr:street": "Main Street",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "name": "Lillooet",
+    "network": "Kaoham Shuttle",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q6548339"
+  }
+},
+{
+  "type": "node",
+  "id": 7012109787,
+  "lat": 49.2737461,
+  "lon": -123.0978630,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "1150",
+    "addr:postcode": "V6A 4C7",
+    "addr:province": "BC",
+    "addr:street": "Station Street",
+    "iata": "XEA",
+    "name": "Vancouver Pacific Central",
+    "network": "VIA Rail;Amtrak",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "VCVR;VAC",
+    "railway:ref:amtrak": "VAC",
+    "railway:ref:via_rail": "VCVR",
+    "train": "yes",
+    "website": "https://www.viarail.ca/en/explore-our-destinations/stations/rockies-and-pacific/vancouver",
+    "website:amtrak": "https://www.amtrak.com/stations/vac.html",
+    "wheelchair": "yes",
+    "wikidata": "Q1327751"
+  }
+},
+{
+  "type": "node",
+  "id": 7061611328,
+  "lat": 51.0491285,
+  "lon": -114.0410285,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Bridgeland/Memorial",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q4096465",
+    "wikipedia": "en:Bridgeland/Memorial station"
+  }
+},
+{
+  "type": "node",
+  "id": 7061611330,
+  "lat": 51.0473574,
+  "lon": -114.0249761,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Zoo",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q4193885",
+    "wikipedia": "en:Zoo station (Calgary)"
+  }
+},
+{
+  "type": "node",
+  "id": 7061611332,
+  "lat": 51.0456366,
+  "lon": -114.0073504,
+  "tags": {
+    "light_rail": "yes",
+    "name": "Barlow/Max Bell",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail",
+    "wikidata": "Q4078337",
+    "wikipedia": "en:Barlow/Max Bell station"
+  }
+},
+{
+  "type": "node",
+  "id": 7143285252,
+  "lat": 49.2256187,
+  "lon": -122.6879324,
+  "tags": {
+    "addr:city": "Pitt Meadows",
+    "addr:housenumber": "12280",
+    "addr:province": "BC",
+    "addr:street": "Harris Road",
+    "name": "Pitt Meadows",
+    "network": "West Coast Express",
+    "network:short": "WCE",
+    "network:wikidata": "Q1675085",
+    "operator": "Translink",
+    "operator:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7199076"
+  }
+},
+{
+  "type": "node",
+  "id": 7755159972,
+  "lat": 49.6882339,
+  "lon": -115.9886950,
+  "tags": {
+    "name": "Kimberley’s Underground Mining Railway",
+    "public_transport": "station",
+    "railway": "station",
+    "website": "https://kimberleysundergroundminingrailway.ca/"
+  }
+},
+{
+  "type": "node",
+  "id": 7759140069,
+  "lat": 49.2686069,
+  "lon": -123.0859220,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "1755",
+    "addr:street": "Cottrell Street",
+    "name": "Vancouver (Rocky Mountaineer)",
+    "network": "Rocky Mountaineer",
+    "network:wikipedia": "https://en.wikipedia.org/wiki/Rocky_Mountaineer",
+    "operator": "Rocky Mountaineer",
+    "phone": "+1-604-606-7245",
+    "public_transport": "station",
+    "railway": "station",
+    "website": "https://www.rockymountaineer.com/",
+    "wheelchair": "yes",
+    "wikidata": "Q7355946",
+    "wikipedia": "en:Rocky Mountaineer Station"
+  }
+},
+{
+  "type": "node",
+  "id": 7759237085,
+  "lat": 51.0441090,
+  "lon": -114.0658683,
+  "tags": {
+    "addr:housenumber": "201",
+    "addr:postcode": "T2P 1K3",
+    "addr:street": "9 Avenue SW",
+    "name": "Calgary",
+    "operator": "Canadian Pacific Kansas City",
+    "operator:wikidata": "Q117706368",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8017899203,
+  "lat": 50.9359909,
+  "lon": -113.9651871,
+  "tags": {
+    "construction:railway": "station",
+    "light_rail": "yes",
+    "name": "Shepard",
+    "network": "CTrain",
+    "operator": "Calgary Transit",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 8576664378,
+  "lat": 49.2855437,
+  "lon": -123.1135400,
+  "tags": {
+    "alt_name": "Waterfront Station",
+    "name": "Waterfront",
+    "network": "Translink",
+    "network:short": "TL",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "TransLink",
+    "operator:wikidata": "Q1142140",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "WF",
+    "start_date": "2009-08-18",
+    "station": "subway",
+    "subway": "yes",
+    "train": "no",
+    "wheelchair": "yes",
+    "wikidata": "Q1625437",
+    "wikipedia": "en:Waterfront station (Vancouver)"
+  }
+},
+{
+  "type": "node",
+  "id": 8576664379,
+  "lat": 49.2629509,
+  "lon": -123.0684944,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "1725",
+    "addr:province": "BC",
+    "addr:street": "East Broadway",
+    "alt_name": "Commercial Station",
+    "departures_board": "realtime",
+    "departures_board:speech_output": "no",
+    "internet_access": "no",
+    "name": "Commercial–Broadway",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "old_name": "Commercial Station",
+    "operator": "BC Rapid Transit Company LTD.",
+    "operator:wikidata": "Q130560850",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "CM",
+    "start_date": "2002-08-31",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q1391726",
+    "wikipedia": "en:Commercial–Broadway station"
+  }
+},
+{
+  "type": "node",
+  "id": 8589911889,
+  "lat": 51.0469775,
+  "lon": -114.0775089,
+  "tags": {
+    "light_rail": "yes",
+    "name": "7 Street Southwest",
+    "network": "CT",
+    "public_transport": "station",
+    "railway": "station",
+    "short_name": "7 St SW",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q3816899",
+    "wikipedia": "en:7 Street Southwest station"
+  }
+},
+{
+  "type": "node",
+  "id": 8589911890,
+  "lat": 51.0469096,
+  "lon": -114.0799351,
+  "tags": {
+    "light_rail": "yes",
+    "name": "8 Street Southwest",
+    "network": "CTrain",
+    "network:wikidata": "Q1022321",
+    "operator": "Calgary Transit",
+    "operator:wikidata": "Q143630",
+    "public_transport": "station",
+    "railway": "station",
+    "short_name": "8 St SW",
+    "station": "light_rail",
+    "wheelchair": "yes",
+    "wikidata": "Q3816899",
+    "wikipedia": "en:7 Street Southwest station"
+  }
+},
+{
+  "type": "node",
+  "id": 8759129156,
+  "lat": 48.9272746,
+  "lon": -122.3207538,
+  "tags": {
+    "name": "Nooksack",
+    "railway": "service_station"
+  }
+},
+{
+  "type": "node",
+  "id": 10046398988,
+  "lat": 50.6525145,
+  "lon": -120.0826310,
+  "tags": {
+    "name": "Hundac Junction",
+    "railway": "yard"
+  }
+},
+{
+  "type": "node",
+  "id": 10115277246,
+  "lat": 50.6525482,
+  "lon": -120.0815529,
+  "tags": {
+    "internet_access": "yes",
+    "name": "Hundac Junction",
+    "network": "BC Wildlife Park",
+    "operator": "BC Wildlife Park",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10117708655,
+  "lat": 50.9345710,
+  "lon": -118.4428851,
+  "tags": {
+    "name": "Three Valley",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10117716407,
+  "lat": 50.7258980,
+  "lon": -120.3462122,
+  "tags": {
+    "name": "Kamloops Jct",
+    "railway": "yard"
+  }
+},
+{
+  "type": "node",
+  "id": 10117716408,
+  "lat": 50.6790701,
+  "lon": -120.3291250,
+  "tags": {
+    "name": "Kamloops CN Jct. South",
+    "railway": "yard"
+  }
+},
+{
+  "type": "node",
+  "id": 10117716409,
+  "lat": 50.6777690,
+  "lon": -120.3287732,
+  "tags": {
+    "name": "Kamloops CP Jct",
+    "railway": "yard"
+  }
+},
+{
+  "type": "node",
+  "id": 10855399962,
+  "lat": 49.1656027,
+  "lon": -122.5496190,
+  "tags": {
+    "description": "Hydro, CN Yale sub. MP 101.7. Junction with Rawlison sub.",
+    "name": "Hydro",
+    "operator": "Canadian National Railway",
+    "railway": "junction",
+    "source": "CN 2017 timetable"
+  }
+},
+{
+  "type": "node",
+  "id": 11298243608,
+  "lat": 50.7259619,
+  "lon": -122.1963510,
+  "tags": {
+    "description": "Ohin halt and station, CN (ex BC Rail) Squamish sub. MP 143.6. Not in CN timetable.",
+    "name": "Ohin",
+    "network": "Kaoham Shuttle",
+    "old_railway_operator": "BC Rail",
+    "operator": "Canadian National",
+    "public_transport": "station",
+    "railway": "halt",
+    "source": "BC Rail 1995 Condensed Profile",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11466699556,
+  "lat": 49.3156405,
+  "lon": -123.1221238,
+  "tags": {
+    "name": "McLean Yard",
+    "operator": "Canadian National Railway",
+    "owner": "BC Rail",
+    "railway": "yard"
+  }
+},
+{
+  "type": "node",
+  "id": 11466699557,
+  "lat": 49.3080576,
+  "lon": -123.0465641,
+  "tags": {
+    "name": "Lynn Creek",
+    "operator": "CNR",
+    "railway": "yard"
+  }
+},
+{
+  "type": "node",
+  "id": 11532741908,
+  "lat": 51.6542026,
+  "lon": -121.3485570,
+  "tags": {
+    "name": "Exeter",
+    "old_railway_operator": "BC Rail;PGE",
+    "operator": "Canadian National",
+    "railway": "yard"
+  }
+},
+{
+  "type": "node",
+  "id": 11653911998,
+  "lat": 49.0535087,
+  "lon": -123.1183130,
+  "tags": {
+    "description": "Roberts Bank, BC Rail Port sub. MP 20.2. Westshore coal terminal and Deltaport container terminal. Used by CN, CPCK and BNSF.",
+    "name": "Roberts Bank",
+    "operator": "BC Rail",
+    "railway": "yard",
+    "railway:position": "mi:20.2",
+    "source": "local knowledge;CN 2017 Timetable"
+  }
+},
+{
+  "type": "node",
+  "id": 11653911999,
+  "lat": 49.0939913,
+  "lon": -122.8724976,
+  "tags": {
+    "description": "Colebrook, BNSF New Westminster sub. MP 130.8. Junction with BC Rail Port sub.",
+    "name": "Colebrook",
+    "operator": "BNSF Railway",
+    "railway": "junction",
+    "source": "local knowledge;BNSF 2017 Timetable"
+  }
+},
+{
+  "type": "node",
+  "id": 11653912000,
+  "lat": 49.0932142,
+  "lon": -122.8880010,
+  "tags": {
+    "description": "Mud Bay West, BNSF New Westminster sub. MP 131.5. Junction with BC Rail Port sub.",
+    "name": "Mud Bay West",
+    "operator": "BNSF Railway",
+    "railway": "junction",
+    "railway:position": "7.8",
+    "source": "local knowledge;BNSF 2017 Timetable"
+  }
+},
+{
+  "type": "node",
+  "id": 11654683679,
+  "lat": 49.0969350,
+  "lon": -122.7133448,
+  "tags": {
+    "description": "Pratt, BC Rail Port sub. MP 0.0. 9640 feet siding. Junction with CPCK Page sub. CPCK also calls this location Pratt.",
+    "name": "Pratt",
+    "operator": "BC Rail",
+    "railway": "junction",
+    "railway:position": "mi:0.0",
+    "source": "local knowledge;BC Rail 2017 Timetable;CP 2017 Timetable"
+  }
+},
+{
+  "type": "node",
+  "id": 11654683680,
+  "lat": 49.0969583,
+  "lon": -122.7120528,
+  "tags": {
+    "description": "View, SRY Fraser Valley Sub",
+    "name": "View",
+    "operator": "Southern Railway of British Columbia",
+    "railway": "junction",
+    "railway:position": "mi:14.75",
+    "source": "local knowledge;CP 2017 Timetable;SRY 2017 timetable"
+  }
+},
+{
+  "type": "node",
+  "id": 11654683683,
+  "lat": 49.1402531,
+  "lon": -122.5791137,
+  "tags": {
+    "description": "Hopewell, CN Rawlison sub. MP 2.1. Junction with CPKC Page sub. CPKC calls this location Livingstone.",
+    "name": "Hopewell",
+    "operator": "Canadian National Railway",
+    "railway": "junction",
+    "railway:position": "mi:2.1",
+    "source": "CN 2017 Timetable"
+  }
+},
+{
+  "type": "node",
+  "id": 11654683684,
+  "lat": 49.1401777,
+  "lon": -122.5790085,
+  "tags": {
+    "description": "Livingstone, CPKC Page sub. MP 16.4. Junction with CN Rawlison sub. CN calls this location Hopewell.",
+    "name": "Livingstone",
+    "operator": "CPKC",
+    "railway": "junction",
+    "railway:position": "mi:16.4",
+    "source": "CP 2017 Timetable"
+  }
+},
+{
+  "type": "node",
+  "id": 12026948230,
+  "lat": 50.7315452,
+  "lon": -120.3420331,
+  "tags": {
+    "name": "Kamloops",
+    "operator": "Rocky Mountaineer",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12434892566,
+  "lat": 49.1895309,
+  "lon": -123.1314838,
+  "tags": {
+    "addr:city": "Richmond",
+    "addr:housenumber": "3300",
+    "addr:province": "BC",
+    "addr:street": "Number 3 Road",
+    "internet_access": "no",
+    "name": "Capstan",
+    "network": "Translink",
+    "network:wikidata": "Q1142140",
+    "not:network:wikidata": "Q1675085",
+    "operator": "ProTransBC",
+    "public_transport": "station",
+    "railway": "station",
+    "railway:ref": "CPS",
+    "start_date": "2024-12-20",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q96374409",
+    "wikipedia": "en:Capstan station"
+  }
+},
+{
+  "type": "node",
+  "id": 13159209570,
+  "lat": 50.3212676,
+  "lon": -122.8062512,
+  "tags": {
+    "addr:city": "Pemberton",
+    "addr:street": "Frontier Street",
+    "description": "Whistler passenger station. Also named location (station) CN (ex BC Rail) Squamish sub. MP 73.7.",
+    "name": "Pemberton Station",
+    "old_railway_operator": "BC Rail;PGE",
+    "operator": "Rocky Mountaineer",
+    "public_transport": "station",
+    "railway": "station"
+  }
+},
+{
+  "type": "node",
+  "id": 13197029041,
+  "lat": 50.7079122,
+  "lon": -122.2872356,
+  "tags": {
+    "name": "Seton Portage",
+    "network": "Kaoham Shuttle",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wikidata": "Q7456808"
+  }
+},
+{
+  "type": "node",
+  "id": 13505344037,
+  "lat": 51.0388296,
+  "lon": -114.0368404,
+  "tags": {
+    "construction:railway": "station",
+    "light_rail": "yes",
+    "name": "Inglewood / Ramsay",
+    "network": "CTrain",
+    "operator": "Calgary Transit",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 13505344038,
+  "lat": 51.0296222,
+  "lon": -114.0363498,
+  "tags": {
+    "construction:railway": "station",
+    "light_rail": "yes",
+    "name": "26 Avenue SE",
+    "network": "CTrain",
+    "operator": "Calgary Transit",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 13505344039,
+  "lat": 51.0200449,
+  "lon": -114.0325191,
+  "tags": {
+    "construction:railway": "station",
+    "light_rail": "yes",
+    "name": "Highfield",
+    "network": "CTrain",
+    "operator": "Calgary Transit",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 13505344040,
+  "lat": 50.9998686,
+  "lon": -114.0101475,
+  "tags": {
+    "construction:railway": "station",
+    "light_rail": "yes",
+    "name": "Lynnwood/Millican",
+    "network": "CTrain",
+    "operator": "Calgary Transit",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 13505344041,
+  "lat": 50.9890607,
+  "lon": -113.9991488,
+  "tags": {
+    "construction:railway": "station",
+    "light_rail": "yes",
+    "name": "Ogden",
+    "network": "CTrain",
+    "operator": "Calgary Transit",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 13505344042,
+  "lat": 50.9776513,
+  "lon": -113.9939379,
+  "tags": {
+    "construction:railway": "station",
+    "light_rail": "yes",
+    "name": "South Hill",
+    "network": "CTrain",
+    "operator": "Calgary Transit",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 13505344043,
+  "lat": 50.9637118,
+  "lon": -114.0013482,
+  "tags": {
+    "construction:railway": "station",
+    "light_rail": "yes",
+    "name": "Quarry Park",
+    "network": "CTrain",
+    "operator": "Calgary Transit",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 13505344044,
+  "lat": 50.9520446,
+  "lon": -113.9966847,
+  "tags": {
+    "construction:railway": "station",
+    "light_rail": "yes",
+    "name": "Douglas Glen",
+    "network": "CTrain",
+    "operator": "Calgary Transit",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "light_rail"
+  }
+},
+{
+  "type": "node",
+  "id": 13518703959,
+  "lat": 51.4294526,
+  "lon": -116.1882055,
+  "tags": {
+    "name": "Lake Louise",
+    "network": "Rocky Mountaineer",
+    "operator": "Rocky Mountaineer",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6476687",
+    "wikipedia": "en:Lake Louise station"
+  }
+},
+{
+  "type": "node",
+  "id": 13722635533,
+  "lat": 49.2621090,
+  "lon": -123.0015054,
+  "tags": {
+    "name": "Willingdon Junction",
+    "railway": "junction"
+  }
+},
+{
+  "type": "node",
+  "id": 13729136737,
+  "lat": 49.2111575,
+  "lon": -122.8972038,
+  "tags": {
+    "name": "Woodlands",
+    "note": "appears on internal documents, never built. sometimes used to store maintenance stuff. there is also a staff access gate at street level.",
+    "operator": "BC Rapid Transit",
+    "railway": "service_station",
+    "railway:ref": "WL",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13729418522,
+  "lat": 49.1943842,
+  "lon": -122.8962187,
+  "tags": {
+    "name": "Brownsville",
+    "operator": "BNSF Railway",
+    "railway": "junction",
+    "railway:position": "139.5",
+    "reporting_marks": "BNSF"
+  }
+},
+{
+  "type": "node",
+  "id": 13747921617,
+  "lat": 49.7248932,
+  "lon": -123.1596184,
+  "tags": {
+    "name": "Museum Shops",
+    "network": "Railway Museum of BC",
+    "operator": "Railway Museum of BC",
+    "public_transport": "station",
+    "railway": "halt"
+  }
+},
+{
+  "type": "node",
+  "id": 13747921787,
+  "lat": 49.7283298,
+  "lon": -123.1606880,
+  "tags": {
+    "access": "customers",
+    "name": "Railway Museum of BC",
+    "network": "Railway Museum of BC",
+    "operator": "Railway Museum of BC",
+    "owner": "Railway Museum of BC",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13898147639,
+  "lat": 49.2683444,
+  "lon": -123.0920215,
+  "tags": {
+    "name": "BNSF Vancouver Yard",
+    "operator": "Canadian National Railway",
+    "railway": "yard"
+  }
+},
+{
+  "type": "node",
+  "id": 13898147641,
+  "lat": 49.2732390,
+  "lon": -123.0801329,
+  "tags": {
+    "name": "CN Glen Yard",
+    "operator": "Canadian National Railway",
+    "railway": "yard"
+  }
+},
+{
+  "type": "node",
+  "id": 13927807975,
+  "lat": 49.2287843,
+  "lon": -122.8852584,
+  "tags": {
+    "name": "New Westminster",
+    "operator": "BNSF Railway",
+    "railway": "yard",
+    "railway:position": "mi:144.8"
+  }
+},
+{
+  "type": "node",
+  "id": 13927807976,
+  "lat": 49.2328355,
+  "lon": -122.8810184,
+  "tags": {
+    "name": "Braid Engine Shop",
+    "operator": "BNSF Railway",
+    "railway": "yard"
+  }
+},
+{
+  "type": "node",
+  "id": 13973265320,
+  "lat": 48.8017063,
+  "lon": -123.7153540,
+  "tags": {
+    "internet_access": "no",
+    "name": "Alderlea Station",
+    "operator": "BC Forest Discovery Centre",
+    "public_transport": "station",
+    "railway": "station",
+    "train": "yes",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}
