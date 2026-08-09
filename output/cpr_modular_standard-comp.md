@@ -1,11 +1,14 @@
-# CP Modular Standard (HO) — Revelstoke → Field
+# CP Modular Standard (HO) — Revelstoke → Field  [-comp]
 
-Applies to every compressed module in `cpr_compressed_plan.md`. Built on the
+Applies to every compressed module in `cpr_module_plan-comp.md`. Built on the
 unified end-plate convention used by North-American HO modular groups (Free-mo
 style): one shared rail height and end-plate mounting pattern, with module
 **width left free**. Because the track is centred and the rail height is fixed
 at every end plate, modules of different widths still join cleanly — and any
 module can be left out of a setup without breaking the mainline.
+
+Compressed-build artifacts carry a **-comp** indicator (module IDs use **-C**,
+e.g. `A-C01`) to distinguish them from the linear **-proto** 1:1000 designs.
 
 ## 1. Equipment design standard
 
@@ -20,7 +23,7 @@ module can be left out of a setup without breaking the mainline.
 
 - The `*-proto` docs keep the pure **1:1000 run compression** (1 proto km =
   1 model m) as the linear reference.
-- The compressed build (**this standard + `cpr_compressed_plan.md`**) applies
+- The compressed build (**this standard + `cpr_module_plan-comp.md`**) applies
   selective compression instead:
   - Yards: 5-7 modules so the shortest track is 12 ft.
   - Plain single-track runs (18 km = ~15 modules): 1-2 scenic modules, omittable.
@@ -64,7 +67,7 @@ module can be left out of a setup without breaking the mainline.
 
 ## 6. Selective omission
 
-Modules are tagged in `cpr_compressed_plan.md`:
+Modules are tagged in `cpr_module_plan-comp.md`:
 
 - **CORE** — the minimum operating layout (yards, tunnels, portals).
 - **FILLER** — omittable scenic single-track runs.
@@ -75,11 +78,14 @@ common end plates — skip them during a first build, add them later.
 
 ## 7. Grades
 
-- Default build: **flat at 50 in**; grades are scenic (see
-  `cpr_grade_overlay-proto.md` for the ruling numbers per scene).
-- If a ruling climb is built (Rogers or Kicking Horse ~2.2%), keep it
-  **≤ 2%** so the 12 ft train can restart mid-grade; use grade modules that
-  end at the standard rail height (Free-mo 3/4 in steps to 62 in).
+- **Model grade is capped at 2.5%** everywhere.
+- Yards are built flat; runs and tunnel/portal modules carry the scene's
+  prototype ruling grade (clamped to ±2.5%), signed eastbound. The full
+  Vancouver→Calgary climb is NOT reproduced; only mountain-section grades show.
+- Per-module grades are listed in `cpr_module_plan-comp.md` and drawn in
+  `render/cpr_elevation_profile.png`.
+- If the prototype is flat in a scene, the modules are flat — no artificial
+  grade is added.
 
 ## 8. Handling
 

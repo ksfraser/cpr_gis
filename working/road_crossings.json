@@ -1,0 +1,162 @@
+[
+ {
+  "km": 606.57,
+  "lat": 101.36407,
+  "lon": -118.21387,
+  "cls": "secondary",
+  "name": "Victoria Street West",
+  "ref": ""
+ },
+ {
+  "km": 609.67,
+  "lat": 101.35255,
+  "lon": -118.1777,
+  "cls": "secondary",
+  "name": "Townley Street",
+  "ref": ""
+ },
+ {
+  "km": 619.43,
+  "lat": 101.3715,
+  "lon": -118.06511,
+  "cls": "unclassified",
+  "name": "Twin Mainline",
+  "ref": ""
+ },
+ {
+  "km": 620.45,
+  "lat": 101.37307,
+  "lon": -118.05099,
+  "cls": "unclassified",
+  "name": "",
+  "ref": ""
+ },
+ {
+  "km": 667.96,
+  "lat": 101.6128,
+  "lon": -117.58381,
+  "cls": "trunk",
+  "name": "Trans-Canada Highway",
+  "ref": "TCH 1"
+ },
+ {
+  "km": 672.41,
+  "lat": 101.63498,
+  "lon": -117.53064,
+  "cls": "trunk",
+  "name": "Trans-Canada Highway",
+  "ref": "TCH 1"
+ },
+ {
+  "km": 683.89,
+  "lat": 101.70548,
+  "lon": -117.43537,
+  "cls": "trunk",
+  "name": "Trans-Canada Highway",
+  "ref": "TCH 1"
+ },
+ {
+  "km": 700.52,
+  "lat": 101.84374,
+  "lon": -117.49251,
+  "cls": "unclassified",
+  "name": "",
+  "ref": ""
+ },
+ {
+  "km": 706.66,
+  "lat": 101.88121,
+  "lon": -117.43197,
+  "cls": "unclassified",
+  "name": "Columbia West Forest Service Road",
+  "ref": ""
+ },
+ {
+  "km": 727.94,
+  "lat": 101.84183,
+  "lon": -117.17382,
+  "cls": "trunk",
+  "name": "Trans-Canada Highway",
+  "ref": "TCH 1"
+ },
+ {
+  "km": 738.95,
+  "lat": 101.77763,
+  "lon": -117.05641,
+  "cls": "unclassified",
+  "name": "Blaeberry River Road",
+  "ref": ""
+ },
+ {
+  "km": 751.68,
+  "lat": 101.67415,
+  "lon": -116.98233,
+  "cls": "tertiary",
+  "name": "14th Street North",
+  "ref": ""
+ },
+ {
+  "km": 752.66,
+  "lat": 101.66622,
+  "lon": -116.97616,
+  "cls": "primary",
+  "name": "Kootenay-Columbia Highway",
+  "ref": "BC 95"
+ },
+ {
+  "km": 762.69,
+  "lat": 101.65072,
+  "lon": -116.85423,
+  "cls": "trunk",
+  "name": "Trans-Canada Highway",
+  "ref": "TCH 1"
+ },
+ {
+  "km": 766.69,
+  "lat": 101.63432,
+  "lon": -116.80612,
+  "cls": "trunk",
+  "name": "Trans-Canada Highway",
+  "ref": "TCH 1"
+ },
+ {
+  "km": 779.28,
+  "lat": 101.59589,
+  "lon": -116.6571,
+  "cls": "unclassified",
+  "name": "Beaverfoot Road",
+  "ref": ""
+ },
+ {
+  "km": 783.1,
+  "lat": 101.57658,
+  "lon": -116.6133,
+  "cls": "trunk",
+  "name": "Trans-Canada Highway",
+  "ref": "TCH 1"
+ },
+ {
+  "km": 799.08,
+  "lat": 101.68449,
+  "lon": -116.56214,
+  "cls": "unclassified",
+  "name": "",
+  "ref": ""
+ },
+ {
+  "km": 807.32,
+  "lat": 101.73384,
+  "lon": -116.51259,
+  "cls": "trunk",
+  "name": "Trans-Canada Highway",
+  "ref": "TCH 1"
+ },
+ {
+  "km": 810.28,
+  "lat": 101.75327,
+  "lon": -116.48777,
+  "cls": "tertiary",
+  "name": "Field Access Road",
+  "ref": ""
+ }
+]

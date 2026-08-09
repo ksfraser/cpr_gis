@@ -1,0 +1,210 @@
+[
+ {
+  "km0": 606.34,
+  "km1": 606.37,
+  "dist_m": 22.0,
+  "cls": "unclassified",
+  "ref": "",
+  "name": "Mutas Road"
+ },
+ {
+  "km0": 606.56,
+  "km1": 606.6,
+  "dist_m": 5.0,
+  "cls": "secondary",
+  "ref": "",
+  "name": "Victoria Street West"
+ },
+ {
+  "km0": 609.67,
+  "km1": 609.73,
+  "dist_m": 10.6,
+  "cls": "secondary",
+  "ref": "",
+  "name": "Townley Street"
+ },
+ {
+  "km0": 619.46,
+  "km1": 619.46,
+  "dist_m": 0.0,
+  "cls": "unclassified",
+  "ref": "",
+  "name": "Twin Mainline"
+ },
+ {
+  "km0": 620.5,
+  "km1": 620.5,
+  "dist_m": 0.0,
+  "cls": "unclassified",
+  "ref": "",
+  "name": ""
+ },
+ {
+  "km0": 673.86,
+  "km1": 673.86,
+  "dist_m": 4.0,
+  "cls": "trunk",
+  "ref": "TCH 1",
+  "name": "Trans-Canada Highway"
+ },
+ {
+  "km0": 700.52,
+  "km1": 700.61,
+  "dist_m": 9.2,
+  "cls": "unclassified",
+  "ref": "",
+  "name": ""
+ },
+ {
+  "km0": 706.66,
+  "km1": 706.72,
+  "dist_m": 0.0,
+  "cls": "unclassified",
+  "ref": "",
+  "name": "Columbia West Forest Service Road"
+ },
+ {
+  "km0": 725.92,
+  "km1": 725.95,
+  "dist_m": 17.7,
+  "cls": "unclassified",
+  "ref": "",
+  "name": "Donald Cemetery Road"
+ },
+ {
+  "km0": 726.04,
+  "km1": 726.08,
+  "dist_m": 23.0,
+  "cls": "unclassified",
+  "ref": "",
+  "name": "Donald Cemetery Road"
+ },
+ {
+  "km0": 726.5,
+  "km1": 726.63,
+  "dist_m": 12.8,
+  "cls": "unclassified",
+  "ref": "",
+  "name": "Donald Cemetery Road"
+ },
+ {
+  "km0": 726.8,
+  "km1": 727.01,
+  "dist_m": 11.0,
+  "cls": "unclassified",
+  "ref": "",
+  "name": "Donald Cemetery Road"
+ },
+ {
+  "km0": 727.17,
+  "km1": 727.17,
+  "dist_m": 18.2,
+  "cls": "unclassified",
+  "ref": "",
+  "name": "Donald Cemetery Road"
+ },
+ {
+  "km0": 727.52,
+  "km1": 727.52,
+  "dist_m": 18.3,
+  "cls": "unclassified",
+  "ref": "",
+  "name": "Donald Cemetery Road"
+ },
+ {
+  "km0": 727.94,
+  "km1": 727.94,
+  "dist_m": 21.2,
+  "cls": "trunk",
+  "ref": "TCH 1",
+  "name": "Trans-Canada Highway"
+ },
+ {
+  "km0": 738.95,
+  "km1": 738.95,
+  "dist_m": 0.0,
+  "cls": "unclassified",
+  "ref": "",
+  "name": "Blaeberry River Road"
+ },
+ {
+  "km0": 752.23,
+  "km1": 752.23,
+  "dist_m": 0.0,
+  "cls": "tertiary",
+  "ref": "",
+  "name": "14th Street North"
+ },
+ {
+  "km0": 752.58,
+  "km1": 752.66,
+  "dist_m": 24.2,
+  "cls": "tertiary",
+  "ref": "",
+  "name": "10th Avenue North"
+ },
+ {
+  "km0": 762.69,
+  "km1": 762.76,
+  "dist_m": 1.5,
+  "cls": "trunk",
+  "ref": "TCH 1",
+  "name": "Trans-Canada Highway"
+ },
+ {
+  "km0": 766.69,
+  "km1": 766.75,
+  "dist_m": 1.7,
+  "cls": "trunk",
+  "ref": "TCH 1",
+  "name": "Trans-Canada Highway"
+ },
+ {
+  "km0": 779.28,
+  "km1": 779.31,
+  "dist_m": 0.0,
+  "cls": "unclassified",
+  "ref": "",
+  "name": "Beaverfoot Road"
+ },
+ {
+  "km0": 783.63,
+  "km1": 783.63,
+  "dist_m": 8.9,
+  "cls": "trunk",
+  "ref": "TCH 1",
+  "name": "Trans-Canada Highway"
+ },
+ {
+  "km0": 799.26,
+  "km1": 799.26,
+  "dist_m": 0.0,
+  "cls": "unclassified",
+  "ref": "",
+  "name": ""
+ },
+ {
+  "km0": 807.32,
+  "km1": 807.35,
+  "dist_m": 12.2,
+  "cls": "trunk",
+  "ref": "TCH 1",
+  "name": "Trans-Canada Highway"
+ },
+ {
+  "km0": 808.11,
+  "km1": 808.14,
+  "dist_m": 19.7,
+  "cls": "unclassified",
+  "ref": "",
+  "name": "Field Back Road"
+ },
+ {
+  "km0": 810.16,
+  "km1": 810.28,
+  "dist_m": 0.0,
+  "cls": "tertiary",
+  "ref": "",
+  "name": "Field Access Road"
+ }
+]
