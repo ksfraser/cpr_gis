@@ -10,7 +10,7 @@ Scales (sliding, per user design):
   - Yards: modelled only long enough for the 12 ft train to fit
   - Tunnels: compressed (MacDonald 14.6 km -> short scenic section)
 
-Reads working/features.json. Produces output/cpr_mountain_modules.md
+Reads working/features.json. Produces output/cpr_mountain_modules-proto.md
 """
 import json
 import os
@@ -142,9 +142,9 @@ def main():
                      f"{mm:.1f} m | {detail} |")
         L.append("")
 
-    with open(os.path.join(OUT, "cpr_mountain_modules.md"), "w") as fh:
+    with open(os.path.join(OUT, "cpr_mountain_modules-proto.md"), "w") as fh:
         fh.write("\n".join(L))
-    print(f"wrote {OUT}/cpr_mountain_modules.md ({len(L)} lines)")
+    print(f"wrote {OUT}/cpr_mountain_modules-proto.md ({len(L)} lines)")
 
 
 if __name__ == "__main__":

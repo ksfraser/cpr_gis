@@ -7,7 +7,7 @@ Reads working/profile.csv (1-km smoothed grade, tunnel mask) and lays out, per
 Also produces scene summaries and the vertical-design implications for a model
 railroad built on the 1:1000 run compression.
 
-Produces output/cpr_grade_overlay.md
+Produces output/cpr_grade_overlay-proto.md
 """
 import csv
 import json
@@ -44,7 +44,7 @@ def main():
     L.append("")
     L.append("Per 4-ft module grade/elevation from the MRDEM-30 profile "
              "(1-km smoothed grade; tunnel rows masked). Module numbers match "
-             "`cpr_scene_modules.md`. Runs eastbound (Vancouver \u2192 Calgary); "
+             "`cpr_scene_modules-proto.md`. Runs eastbound (Vancouver \u2192 Calgary); "
              "negative grade = descending eastbound.")
     L.append("")
 
@@ -134,9 +134,9 @@ def main():
              "(2 AC4400) can restart mid-grade after a stop.")
     L.append("")
 
-    with open(os.path.join(OUT, "cpr_grade_overlay.md"), "w") as fh:
+    with open(os.path.join(OUT, "cpr_grade_overlay-proto.md"), "w") as fh:
         fh.write("\n".join(L))
-    print(f"wrote {OUT}/cpr_grade_overlay.md ({len(L)} lines)")
+    print(f"wrote {OUT}/cpr_grade_overlay-proto.md ({len(L)} lines)")
 
 
 if __name__ == "__main__":

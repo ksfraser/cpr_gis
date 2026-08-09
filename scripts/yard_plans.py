@@ -8,7 +8,7 @@ the 12 ft train (shortest yard track >= 12 ft usable). Each yard is drawn on
 4 x 4-ft modules (16 ft total = 12 ft usable + ladder + west lead), with #6
 turnouts on a west-end ladder. Prototype track count is not reproduced.
 
-Reads working/features.json. Produces output/cpr_yard_plans.md
+Reads working/features.json. Produces output/cpr_yard_plans-proto.md
 """
 import json
 import os
@@ -146,11 +146,11 @@ def main():
     L.append("- Prototype track counts (Field 7, Golden up to 10, Revelstoke 9) "
              "are scenery-level fans in the mountain model; model only what "
              "operation needs.")
-    L.append("- Mount yards flat; grade handling is in `cpr_grade_overlay.md`.")
+    L.append("- Mount yards flat; grade handling is in `cpr_grade_overlay-proto.md`.")
 
-    with open(os.path.join(OUT, "cpr_yard_plans.md"), "w") as fh:
+    with open(os.path.join(OUT, "cpr_yard_plans-proto.md"), "w") as fh:
         fh.write("\n".join(L))
-    print(f"wrote {OUT}/cpr_yard_plans.md ({len(L)} lines)")
+    print(f"wrote {OUT}/cpr_yard_plans-proto.md ({len(L)} lines)")
 
 
 if __name__ == "__main__":

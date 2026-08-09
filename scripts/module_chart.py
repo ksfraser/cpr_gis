@@ -5,7 +5,7 @@ Build a model-railroad module track chart from working/features.json.
 Converts prototype km to model units at a chosen scale (default 1:1000,
 i.e. 1 model m = 1000 prototype m, 1 model ft = 1000 prototype ft).
 
-Produces output/cpr_module_chart.md
+Produces output/cpr_module_chart-proto.md
 """
 import argparse
 import json
@@ -213,9 +213,9 @@ def main():
     L.append("```")
     L.append("")
 
-    with open(os.path.join(OUT, "cpr_module_chart.md"), "w") as fh:
+    with open(os.path.join(OUT, "cpr_module_chart-proto.md"), "w") as fh:
         fh.write("\n".join(L))
-    print(f"wrote {OUT}/cpr_module_chart.md ({len(L)} lines, scale 1:{scale:g})")
+    print(f"wrote {OUT}/cpr_module_chart-proto.md ({len(L)} lines, scale 1:{scale:g})")
     print(f"yards: {len(f['yards'])}  sidings: {len(f['sidings'])}  "
           f"multitrack(merged): {len(mt)}  tunnels: {len(f['tunnels'])}")
 

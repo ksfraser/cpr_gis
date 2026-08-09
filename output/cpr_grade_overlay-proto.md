@@ -1,6 +1,6 @@
 # CP Mountain Section — Grade & Elevation Overlay
 
-Per 4-ft module grade/elevation from the MRDEM-30 profile (1-km smoothed grade; tunnel rows masked). Module numbers match `cpr_scene_modules.md`. Runs eastbound (Vancouver → Calgary); negative grade = descending eastbound.
+Per 4-ft module grade/elevation from the MRDEM-30 profile (1-km smoothed grade; tunnel rows masked). Module numbers match `cpr_scene_modules-proto.md`. Runs eastbound (Vancouver → Calgary); negative grade = descending eastbound.
 
 ## Scene A — Revelstoke yard  (km 605.7-623.2)
 

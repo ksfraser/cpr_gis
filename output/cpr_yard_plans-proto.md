@@ -361,4 +361,4 @@ Prototype 2136 m (7009 ft). Modelled: main + west lead + **4 yard tracks**, each
 - **12 ft usable** matches the siding standard, so any yard track holds the same 2 × 5-well + 2 AC4400 + caboose consist that a siding holds.
 - Add a **runaround** via the west lead/headshunt so a solo loco can pull around the consist; the east end is a simple stub clear of the main.
 - Prototype track counts (Field 7, Golden up to 10, Revelstoke 9) are scenery-level fans in the mountain model; model only what operation needs.
-- Mount yards flat; grade handling is in `cpr_grade_overlay.md`.
+- Mount yards flat; grade handling is in `cpr_grade_overlay-proto.md`.

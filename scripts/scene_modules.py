@@ -12,7 +12,7 @@ Sidings and yards are compressed to the design standard (12 ft usable siding /
 yard long enough for the 12 ft train); the module grid below is the linear
 1:1000 base so positions fall where they fall.
 
-Reads working/features.json. Produces output/cpr_scene_modules.md
+Reads working/features.json. Produces output/cpr_scene_modules-proto.md
 """
 import json
 import os
@@ -111,9 +111,9 @@ def main():
                      f"{km0:.2f}\u2013{km1:.2f} | {track} | {'; '.join(dict.fromkeys(feat))} |")
         L.append("")
 
-    with open(os.path.join(OUT, "cpr_scene_modules.md"), "w") as fh:
+    with open(os.path.join(OUT, "cpr_scene_modules-proto.md"), "w") as fh:
         fh.write("\n".join(L))
-    print(f"wrote {OUT}/cpr_scene_modules.md ({len(L)} lines)")
+    print(f"wrote {OUT}/cpr_scene_modules-proto.md ({len(L)} lines)")
 
 
 if __name__ == "__main__":
